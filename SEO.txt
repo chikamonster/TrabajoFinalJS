@@ -1,0 +1,5 @@
+MEJORAS CON SEO:
+Aplique etiquetas <meta> , description y tambien <keywords>
+Revision/correccion de Headers (h1, h2)
+Puse todos los ALT en las imagenes. 
+Agregue mapa de vinculos en footer.
